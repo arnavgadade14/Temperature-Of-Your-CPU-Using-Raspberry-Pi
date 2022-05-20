@@ -1,10 +1,15 @@
 # Temperature-Of-Your-CPU-Using-Raspberry-Pi
-install python3:
+Install python3:
 https://www.python.org/downloads/
+
+Become Root.
 
 <blockquote>
   pi@raspberrypi:~ $ sudo su
 </blockquote>
+
+Install matplotlib.
+
 <blockquote>
   root@raspberrypi: /home/pi# apt-get install python3-matplotlib
 </blockquote>
