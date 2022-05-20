@@ -16,12 +16,13 @@ Install matplotlib.
 
 Go To Menu And Click On Preferences.
 After That Click On Reccomended Softwares And Then Install MU Software.
+Check Version.
 
 <blockquote>
   root@raspberrypi: /home/pi# python version
 </blockquote>
 
-Write Code.
+Write Code In Mu. And Run It In Terminal
 
 <blockquote>
   root@raspberrypi: /home/pi# python3 filename.py
