@@ -24,7 +24,7 @@ Check Version.
   root@raspberrypi: /home/pi# python version
 </blockquote>
 
-Write Code In Mu. And Run It In Terminal
+Write The Code In Mu. And Run It In Terminal
 
 <blockquote>
   root@raspberrypi: /home/pi# python3 filename.py
